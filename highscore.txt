@@ -1,0 +1,5 @@
+Tobias 10000
+Deadpool 5000
+Spiderman 1000
+Ironman 500
+Thor 100
